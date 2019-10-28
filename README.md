@@ -1,6 +1,8 @@
-![alt text](https://github.com/SinFulNard/codethegong/blob/master/images/horrible-logos-code-the-gong.png "Code the Gong")
+![alt text](https://github.com/SinFulNard/codethegong/blob/master/images/OutRunLogo.png "Code the Gong")
 
 Public repo for Code the Gong site.
+
+Code the Gong is a volunteer run CoderDojo based in Wollongong. For more information on the internation CoderDojo movement, please see https://coderdojo.com/
 
 ### Build the container
 ```
